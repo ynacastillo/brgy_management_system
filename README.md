@@ -3,6 +3,11 @@
 
 A **Barangay Information System (BMIS)** built using **PHP** and **MySQL** to help streamline barangay operations — including resident profiling, issuance of certificates, and basic administrative reporting.  
 
+  
+<img src="https://github.com/ynacastillo/brgy_management_system/blob/main/Dashboard.png" height="80%" width="80%">
+  
+
+
 This system provides an easy-to-use web interface for barangay officials to manage data and generate reports efficiently.
 
 ---
@@ -19,6 +24,10 @@ This system provides an easy-to-use web interface for barangay officials to mana
 - 🕒 Activity Logs (optional, if implemented)
 
 ---
+
+
+<img src="https://github.com/ynacastillo/brgy_management_system/blob/main/Signin.png" height="50%" width="50%">
+
 
 ## 🛠️ Tech Stack
 
@@ -41,6 +50,9 @@ This system provides an easy-to-use web interface for barangay officials to mana
 - Web Browser (Chrome, Firefox, Edge)
 
 ---
+
+<img src="https://github.com/ynacastillo/brgy_management_system/blob/main/print.png" height="80%" width="50%">
+
 
 ### 2️⃣ Steps to Set Up Locally
 
